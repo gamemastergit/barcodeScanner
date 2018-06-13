@@ -129,7 +129,7 @@ void KbdRptParser::OnKeyPressed(uint8_t key)
     correct++;
     }else{
     activateSound(8);
-    } 
+    }
     break;
 
     case 639277055309:
